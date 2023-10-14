@@ -2,6 +2,7 @@
 <h4 align="center">Ayo, wassup! 😎 I am a developer surfing in the trend of new technologies.</h4>
 
 : 📖 Currently learning models for NLP and Regression <br>
+: 🐇 Caring for two chonky bunnies <br>
 : 🎮 I like playing cozy and competitive games
 
 ![icons8-roblox](https://github.com/Dioue/dioue/assets/135021139/02138010-f287-4b0a-b4aa-8e7f38736e23)
