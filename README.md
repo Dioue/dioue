@@ -1,16 +1,16 @@
 <h2>Hello there👋, I'm Dioue.</h2>
 
 
-<h4>Full-stack Developer & DE Enthusiast</h4>
+<h4>Software Developer | Data Engineering</h4>
 <p> 
-I mainly work with:<br>
-<img src="https://img.shields.io/badge/Django-092e20?style=static&logo=django&logoColor=green"/>
-<img src="https://img.shields.io/badge/TypeScript-3178c6?style=static&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Django-092e20?style=square&logo=django&logoColor=green"/>
+<img src="https://img.shields.io/badge/TypeScrip-3178c6?style=static&logo=javascript&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-61DBFB?style=static&logo=react&logoColor=white"/>
 <img src="https://img.shields.io/badge/PostgreSQL-512BD4?style=static&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Node-green?style=static&logo=node.js&logoColor=white"/>
 </p>
 <hr>
+
 
 ### 👨🏼‍💻 Who am I
 
