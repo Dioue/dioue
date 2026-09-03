@@ -1,44 +1,5 @@
-<h2>Hello there👋, I'm Dioue.</h2>
+<h1>Hello there👋, I'm Dioue.</h1>
 
-
-<h4>Software Developer | Data Engineering</h4>
-<p> 
-<img src="https://img.shields.io/badge/Django-092e20?style=square&logo=django&logoColor=green"/>
-<img src="https://img.shields.io/badge/TypeScrip-3178c6?style=static&logo=javascript&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-61DBFB?style=static&logo=react&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-512BD4?style=static&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Node-green?style=static&logo=node.js&logoColor=white"/>
-</p>
-<hr>
-
-
-### 👨🏼‍💻 Who am I
-
-Hi there! I'm Joe Marvin Tabañera, I have hands-on experience building full-stack web applications that integrate **Django REST** backends with **React** frontends.
-
-🎓 **Education:** BS in Computer Science [2021 — 2025]<br>
-🌍 **Based in:** The Philippines<br>
-💬 **Languages:** Tagalog & English<br>
-🧩 **Hobbies:** Learning new frameworks, orchestrating data pipelines, and building side projects.
-
----
-
-✭ **2020** — Began my programming journey through freeCodeCamp, exploring Python and web fundamentals.  
-✭ **2021** — Entered university and built my first backend API & Discord bot using Python.  
-✭ **2022** — Learned Flask and developed several academic projects that strengthened my backend foundations.  
-✭ **2023** — Discovered frontend development and fell in love with React’s component-driven architecture.  
-✭ **2024** — Built my first full-stack project integrating **Django REST**, **React**, and **PostgreSQL** for real-world use.  
-✭ **2025** — Diving into **data engineering** and **workflow orchestration** to expand my end-to-end development skills.
-
----
-
-|![StatsCard](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dioue&theme=tokyonight)|![GitHub Streak](https://github-readme-streak-stats-azure-chi-90.vercel.app/?user=dioue&theme=dark&short_numbers=true&background=90%2C24283B%2C1F2335&ring=BB9AF7&fire=FF757F&currStreakLabel=BB9AF7&dates=7DCFFF&currStreakNum=4FD6BE&border=7AA2F7&stroke=7AA2F7&sideNums=4FD6BE&sideLabels=BB9AF7&excludeDaysLabel=7AA2F7)|
-| ----- | ----- |
-
-|![CommitGraph](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Dioue&theme=tokyonight&utcOffset=+8)|![Commit Summary Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dioue&theme=tokyonight)|
-| ------ | ------ |
-
----
 ### 💻 Technologies I’ve Worked With
 
 <p align="left"> 
@@ -75,9 +36,13 @@ Hi there! I'm Joe Marvin Tabañera, I have hands-on experience building full-sta
 <img src="https://img.shields.io/badge/n8n-FF6A00?style=static&logo=n8n&logoColor=white"/>
 </p>
 
-<h3>Connect with Me</h3>
-<p>
-  <a href="mailto:joemarvin.dev@gmail.com"><img src="https://img.shields.io/badge/Mail me-c71610?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/joemarvindev/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white"/></a>
-</p>
+|![StatsCard](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dioue&theme=tokyonight)|![GitHub Streak](https://github-readme-streak-stats-azure-chi-90.vercel.app/?user=dioue&theme=dark&short_numbers=true&background=90%2C24283B%2C1F2335&ring=BB9AF7&fire=FF757F&currStreakLabel=BB9AF7&dates=7DCFFF&currStreakNum=4FD6BE&border=7AA2F7&stroke=7AA2F7&sideNums=4FD6BE&sideLabels=BB9AF7&excludeDaysLabel=7AA2F7)|
+| ----- | ----- |
+
+|![CommitGraph](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Dioue&theme=tokyonight&utcOffset=+8)|![Commit Summary Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dioue&theme=tokyonight)|
+| ------ | ------ |
+
+---
+
+
 
